@@ -6,7 +6,7 @@ Objective
 The primary objective of this project is to segment customers into distinct groups based on their spending behavior and annual income. By identifying these segments, we can help the mall management understand customer preferences and behavior better, leading to improved customer targeting and personalized marketing efforts.
 
 Dataset
-The dataset used for this project is the "Mall Customer Segmentation Data" available on Kaggle. It contains information about customers of a mall, including the following features:
+The dataset used for this project is of the "Mall Customer Segmentation Data". It contains information about customers of a mall, including the following features:
 
 CustomerID: Unique identifier for each customer.
 Gender: Gender of the customer.
