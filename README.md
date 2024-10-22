@@ -18,7 +18,7 @@ The dataset can be found here.
 Project Steps
 1. Data Loading and Preprocessing
 Load the Data: Load the dataset using Pandas.
-Data Cleaning: Check for missing values and handle them appropriately. In this case, the dataset is clean with no missing values.
+Data Cleaning: Check for missing values and handle them appropriately.
 Feature Selection: Select relevant features for clustering. We will use 'Age', 'Annual Income (k$)', and 'Spending Score (1-100)'.
 2. Data Exploration and Visualization
 Descriptive Statistics: Generate summary statistics for the numerical features.
